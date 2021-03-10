@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio by Michael Cardenas
 
-You can use the [editor on GitHub](https://github.com/MichaelC-DS/MichaelC-DS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page showcases several projects of personal interest ranging from Machine Learning to GIS. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+# Electrical Grid Stability Prediction - Data Analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data set containing several variables used to predict the stability of a hypothetical electric grid. This project utilizes DecisionTreeRegression to estimate the model of best fit in order to make accurate predictions. [Link](https://github.com/MichaelC-DS/Data-Analysis) to code. 
 
-```markdown
-Syntax highlighted code block
+# Stock Forum Sentiment Analysis
+
+Using comments from stock trading forum, WallStreetBets, this project seeks to plot the daily change in sentiment against the daily move in popular stocks. Such stocks can be found using the Word Bubble feature of the script in order to get gain quick insight as to trending topics. [Link](https://github.com/MichaelC-DS/Sentiment-Analysis) to code.
 
 # Header 1
 ## Header 2
