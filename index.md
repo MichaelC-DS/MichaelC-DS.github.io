@@ -11,3 +11,7 @@ Data set containing several variables used to predict the stability of a hypothe
 ### Stock Forum Sentiment Analysis
 
 Using comments from stock trading forum, WallStreetBets, this project seeks to plot the daily change in sentiment against the daily move in popular stocks. Such stocks can be found using the Word Cloud feature of the script in order to gain quick insights into trending topics. [Link](https://github.com/MichaelC-DS/Sentiment-Analysis) to code.
+
+### Open Property Listings in Los Angeles, CA - GIS Visualization
+
+Visualizing property value disparity in LA using ArcGIS with data from Redfin. [Link](https://github.com/MichaelC-DS/GIS-Data-Visualization) to code.
