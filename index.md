@@ -2,7 +2,7 @@
 
 This page showcases several projects of personal interest ranging from Machine Learning to GIS. 
 
-## Projects
+## Python Projects
 
 ### Electrical Grid Stability Prediction - Data Analysis
 
@@ -16,6 +16,6 @@ Using comments from stock trading forum, WallStreetBets, this project seeks to p
 
 Visualizing property value disparity in LA using ArcGIS with data from Redfin. [Link](https://github.com/MichaelC-DS/GIS-Data-Visualization) to code.
 
-### Miscellaneous GIS Projects
+## ArcGIS Projects
 
-<embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" width="100%" height="850px"/>
+<embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" width="100%" height="800px"/>
