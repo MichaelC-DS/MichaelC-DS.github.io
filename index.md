@@ -19,3 +19,5 @@ Visualizing property value disparity in LA using ArcGIS with data from Redfin. [
 ## ArcGIS Projects
 
 <embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" width="100%" height="800px"/>
+<embed src="https://MichaelC-DS.github.io/TourismMap.pdf" width="100%" height="400px"/>
+<embed src="https://MichaelC-DS.github.io/HighestPointsMap.pdf" width="100%" height="100%"/>
