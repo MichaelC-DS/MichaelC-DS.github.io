@@ -16,6 +16,6 @@ Using comments from stock trading forum, WallStreetBets, this project seeks to p
 
 Visualizing property value disparity in LA using ArcGIS with data from Redfin. [Link](https://github.com/MichaelC-DS/GIS-Data-Visualization) to code.
 
-<a href="MichaelC-DS.github.io/Grid-Wildfire Map.pdf" target="_blank">Link to Project1 (Grid-Wildfire Map).</a>
+"<a href="MichaelC-DS.github.io/Grid-Wildfire Map.pdf" target="_blank">Link to Project1 (Grid-Wildfire Map).</a>"
 <embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" type="application/pdf" />
 <embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" width="100%" height="850px"/>
