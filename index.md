@@ -15,3 +15,5 @@ Using comments from stock trading forum, WallStreetBets, this project seeks to p
 ### Open Property Listings in Los Angeles, CA - GIS Visualization
 
 Visualizing property value disparity in LA using ArcGIS with data from Redfin. [Link](https://github.com/MichaelC-DS/GIS-Data-Visualization) to code.
+
+<a href="MichaelC-DS.github.io/Grid-Wildfire Map.pdf" target="_blank">PDF.</a>
