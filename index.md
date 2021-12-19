@@ -18,5 +18,8 @@ Visualizing property value disparity in LA using ArcGIS with data from Redfin. [
 
 ## ArcGIS Projects
 
-<embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" width="100%" height="700px"/>
+Mapping LA's Housing Crisi
 <embed src="https://MichaelC-DS.github.io/Final Project v2.pdf" width="100%" height="450px"/>
+
+California's Electric Grid & Wildfire Instances
+<embed src="https://MichaelC-DS.github.io/Grid-Wildfire Map.pdf" width="100%" height="700px"/>
