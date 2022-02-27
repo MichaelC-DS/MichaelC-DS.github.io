@@ -2,6 +2,10 @@
 
 This page showcases several projects of personal interest ranging from Machine Learning to GIS. 
 
+## Visualization Samples
+
+<iframe src="https://public.tableau.com/authoring/NetflixData2019_16459958695610/Dashboard1#1" width = '650' height = '450'></iframe>
+
 ## Python Projects
 
 ### Electrical Grid Stability Prediction - Data Analysis
