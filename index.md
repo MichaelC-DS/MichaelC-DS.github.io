@@ -1,6 +1,6 @@
 # Data Science Portfolio by Michael Cardenas
 
-This page showcases several projects of personal interest ranging from Machine Learning to GIS. 
+This page showcases several projects of personal interest ranging from Machine Learning to Data Visualization and GIS. 
 
 ## Visualization Samples
 
