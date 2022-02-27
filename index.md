@@ -4,7 +4,7 @@ This page showcases several projects of personal interest ranging from Machine L
 
 ## Tableau Visualization
 
-<embed src="https://public.tableau.com/views/NetflixData2019_16459958695610/Dashboard1?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1050px" height="650px"/>
+<embed src="https://public.tableau.com/views/NetflixData2019_16459958695610/Dashboard1?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="950px" height="850px"/>
 
 
 ## Python Projects
