@@ -4,7 +4,7 @@ This page showcases several projects of personal interest ranging from Machine L
 
 ## Visualization Samples
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/authoring/NetflixData2019_16459958695610/Dashboard1#1" width = '650' height = '450' scrolling='yes' ></iframe>    
+<embed src="https://public.tableau.com/authoring/NetflixData2019_16459958695610/Dashboard1#1" width = '650' height = '450'/>
 
 
 ## Python Projects
