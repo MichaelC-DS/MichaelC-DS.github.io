@@ -6,6 +6,7 @@ This page showcases several projects of personal interest ranging from Machine L
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/authoring/NetflixData2019_16459958695610/Dashboard1#1:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
+
 ## Python Projects
 
 ### Electrical Grid Stability Prediction - Data Analysis
@@ -19,6 +20,7 @@ Using comments from stock trading forum, WallStreetBets, this project seeks to p
 ### Open Property Listings in Los Angeles, CA - GIS Visualization
 
 Visualizing property value disparity in LA using ArcGIS with data from Redfin. [Link](https://github.com/MichaelC-DS/GIS-Data-Visualization) to code.
+
 
 ## ArcGIS Projects
 
